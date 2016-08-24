@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 add merge.
 i will going to repare a bug.
 add coding:utf-8.
+add /usr/bin/env
